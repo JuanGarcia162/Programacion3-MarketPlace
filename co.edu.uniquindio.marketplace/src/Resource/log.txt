@@ -1,0 +1,204 @@
+may 30, 2022 5:54:05 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-30
+may 30, 2022 6:04:27 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-30
+may 30, 2022 6:04:49 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: laura,ingreso el vendedor  laura,2022-05-30
+may 30, 2022 6:04:56 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: sebas,ingreso el vendedor  sebas,2022-05-30
+may 30, 2022 6:13:38 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-30
+may 30, 2022 6:14:16 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: 123, envio la solicitud a123,2022-05-30
+may 30, 2022 6:14:39 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: 1,ingreso el vendedor  1,2022-05-30
+may 30, 2022 6:15:25 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: juanmigeal, envio la solicitud ajuanmigeal,2022-05-30
+may 30, 2022 6:15:28 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: juanmigeal, acepto  la solicitud a  juanmigeal,2022-05-30
+may 30, 2022 6:15:32 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: juanmigeal, envio la solicitud ajuanmigeal,2022-05-30
+may 30, 2022 6:15:36 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: juanmigeal, rechazo  la solicitud a  juanmigeal,2022-05-30
+may 30, 2022 6:15:41 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: 123, envio la solicitud a123,2022-05-30
+may 30, 2022 6:16:27 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-30
+may 30, 2022 6:17:13 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-30
+may 30, 2022 6:17:55 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: 123, envio la solicitud a123,2022-05-30
+may 30, 2022 6:21:46 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-30
+may 30, 2022 6:22:10 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: 1,ingreso el vendedor  1,2022-05-30
+may 30, 2022 6:22:15 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: juanmigeal, envio la solicitud ajuanmigeal,2022-05-30
+may 30, 2022 6:22:24 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: juanmigeal, acepto  la solicitud a  juanmigeal,2022-05-30
+may 30, 2022 6:23:52 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: hola,se guardo el Producto satisfactorimente,2022-05-30
+may 30, 2022 6:24:04 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,no pudo ingresor el vendedor,2022-05-30
+may 30, 2022 6:24:05 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,no pudo ingresor el vendedor,2022-05-30
+may 30, 2022 6:24:15 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-30
+may 30, 2022 6:24:39 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: juanmigeal, envio la solicitud ajuanmigeal,2022-05-30
+may 30, 2022 6:24:57 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: 1,ingreso el vendedor  1,2022-05-30
+may 30, 2022 6:25:04 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: juanmigeal, acepto  la solicitud a  alexis,2022-05-30
+may 30, 2022 6:25:39 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-30
+may 30, 2022 6:25:50 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: juanmigeal, envio la solicitud ajuanmigeal,2022-05-30
+may 30, 2022 6:26:03 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: 1,ingreso el vendedor  1,2022-05-30
+may 30, 2022 6:26:22 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: juanmigeal, acepto  la solicitud a  alexis,2022-05-30
+may 30, 2022 6:26:49 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-30
+may 30, 2022 6:27:03 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Saludo,se guardo el Producto satisfactorimente,2022-05-30
+may 30, 2022 6:27:23 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: 1,ingreso el vendedor  1,2022-05-30
+may 30, 2022 6:27:38 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: hola,se elimino el vendedor satisfactorimente,2022-05-30
+may 30, 2022 6:29:28 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-30
+may 30, 2022 6:29:45 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Balon,se guardo el Producto satisfactorimente,2022-05-30
+may 30, 2022 6:30:14 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Sebastian, envio la solicitud aSebastian,2022-05-30
+may 30, 2022 6:30:20 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: laura, envio la solicitud alaura,2022-05-30
+may 30, 2022 6:30:29 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: sebas,ingreso el vendedor  sebas,2022-05-30
+may 30, 2022 6:30:37 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Sebastian, acepto  la solicitud a  Juan,2022-05-30
+may 30, 2022 6:31:08 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Balon,se guardo el Producto satisfactorimente,2022-05-30
+may 30, 2022 6:31:23 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: laura,ingreso el vendedor  laura,2022-05-30
+may 30, 2022 6:31:25 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: laura, acepto  la solicitud a  Juan,2022-05-30
+may 30, 2022 6:31:46 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Balon,se guardo el Producto satisfactorimente,2022-05-30
+may 30, 2022 6:31:54 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-30
+may 30, 2022 6:32:32 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: sebas,ingreso el vendedor  sebas,2022-05-30
+may 30, 2022 6:33:05 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-30
+may 30, 2022 6:33:21 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: sebas,ingreso el vendedor  sebas,2022-05-30
+may 30, 2022 6:33:48 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-30
+may 30, 2022 6:34:06 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-30
+may 30, 2022 6:34:18 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: sebas,ingreso el vendedor  sebas,2022-05-30
+may 30, 2022 6:34:33 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: laura,ingreso el vendedor  laura,2022-05-30
+may 30, 2022 6:34:59 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-30
+may 30, 2022 6:35:22 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: sebas,ingreso el vendedor  sebas,2022-05-30
+may 30, 2022 6:35:38 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: laura, envio la solicitud alaura,2022-05-30
+may 30, 2022 6:35:45 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: laura,ingreso el vendedor  laura,2022-05-30
+may 30, 2022 6:35:48 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: laura, acepto  la solicitud a  Sebastian,2022-05-30
+may 30, 2022 6:35:54 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: laura,ingreso el vendedor  laura,2022-05-30
+may 30, 2022 6:36:01 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: sebas,ingreso el vendedor  sebas,2022-05-30
+may 30, 2022 6:36:11 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: laura, envio la solicitud alaura,2022-05-30
+may 30, 2022 6:36:17 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: laura,ingreso el vendedor  laura,2022-05-30
+may 30, 2022 6:36:21 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: laura, acepto  la solicitud a  Sebastian,2022-05-30
+may 30, 2022 6:36:24 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: laura,ingreso el vendedor  laura,2022-05-30
+may 30, 2022 6:37:09 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-30
+may 30, 2022 6:37:41 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-30
+may 30, 2022 6:37:52 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: sebas,ingreso el vendedor  sebas,2022-05-30
+may 31, 2022 2:01:40 A. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-31
+may 31, 2022 2:04:43 A. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-31
+may 31, 2022 2:08:04 A. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-31
+may 31, 2022 2:09:03 A. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-31
+may 31, 2022 7:27:49 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-31
+may 31, 2022 7:34:42 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-31
+may 31, 2022 7:34:51 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-05-31
+jun 01, 2022 11:37:35 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-06-01
+jun 02, 2022 4:50:50 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-06-02
+jun 02, 2022 4:51:07 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: sebas,ingreso el vendedor  sebas,2022-06-02
+jun 02, 2022 4:53:46 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-06-02
+jun 02, 2022 4:54:01 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Sebastian, envio la solicitud aSebastian,2022-06-02
+jun 02, 2022 4:54:11 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: sebas,ingreso el vendedor  sebas,2022-06-02
+jun 02, 2022 4:54:15 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Sebastian, acepto  la solicitud a  Juan,2022-06-02
+jun 02, 2022 4:54:37 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-06-02
+jun 02, 2022 4:54:47 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: laura, envio la solicitud alaura,2022-06-02
+jun 02, 2022 4:54:55 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: laura,ingreso el vendedor  laura,2022-06-02
+jun 02, 2022 4:54:59 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: laura, acepto  la solicitud a  Juan,2022-06-02
+jun 02, 2022 4:55:08 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-06-02
+jun 02, 2022 5:07:02 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-06-02
+jun 02, 2022 5:07:26 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: sebas,ingreso el vendedor  sebas,2022-06-02
+jun 02, 2022 5:10:07 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-06-02
+jun 02, 2022 5:11:44 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-06-02
+jun 02, 2022 5:11:59 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: sebas,ingreso el vendedor  sebas,2022-06-02
+jun 02, 2022 5:13:42 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,no pudo ingresor el vendedor,2022-06-02
+jun 02, 2022 5:14:04 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-06-02
+jun 02, 2022 5:14:13 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: sebas,ingreso el vendedor  sebas,2022-06-02
+jun 06, 2022 11:30:11 PM co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-06-06
+jun 06, 2022 11:41:00 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-06-06
+jun 06, 2022 11:41:13 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: sebas,ingreso el vendedor  sebas,2022-06-06
+jun 06, 2022 11:46:58 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-06-06
+jun 06, 2022 11:47:25 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Jose,se guardo el vendedor satisfactorimente,2022-06-06
+jun 06, 2022 11:47:34 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: Jose,se elimino el vendedor satisfactorimente,2022-06-06
+jun 06, 2022 11:48:18 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: sebas,ingreso el vendedor  sebas,2022-06-06
+jun 06, 2022 11:57:56 P. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-06-06
+jun 07, 2022 12:04:18 A. M. co.edu.uniquindio.marketplace.persistencia.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: admin,ingreso el vendedor  admin,2022-06-07

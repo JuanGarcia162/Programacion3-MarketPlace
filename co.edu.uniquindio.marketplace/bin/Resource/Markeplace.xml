@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_111" class="java.beans.XMLDecoder">
+ <object class="co.edu.uniquindio.marketplace.model.Marketplace" id="Marketplace0">
+  <void property="listaVendedor">
+   <void method="add">
+    <object class="co.edu.uniquindio.marketplace.model.Vendedor" id="Vendedor0">
+     <void property="apellido">
+      <string>Garcia</string>
+     </void>
+     <void property="cedula">
+      <string>1005089963</string>
+     </void>
+     <void property="contraceña">
+      <string>admin</string>
+     </void>
+     <void property="direccion">
+      <string>Calle 32 #24-43</string>
+     </void>
+     <void property="nombre">
+      <string>Juan</string>
+     </void>
+     <void property="usurio">
+      <string>admin</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.marketplace.model.Vendedor" id="Vendedor1">
+     <void property="apellido">
+      <string>Rincon</string>
+     </void>
+     <void property="cedula">
+      <string>100</string>
+     </void>
+     <void property="contraceña">
+      <string>sebas</string>
+     </void>
+     <void property="direccion">
+      <string>100</string>
+     </void>
+     <void property="listaVendedores">
+      <void method="add">
+       <object idref="Vendedor0"/>
+      </void>
+     </void>
+     <void property="nombre">
+      <string>Sebastian</string>
+     </void>
+     <void property="usurio">
+      <string>sebas</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="co.edu.uniquindio.marketplace.model.Vendedor" id="Vendedor2">
+     <void property="apellido">
+      <string>Reyes</string>
+     </void>
+     <void property="cedula">
+      <string>1005089987</string>
+     </void>
+     <void property="contraceña">
+      <string>laura</string>
+     </void>
+     <void property="direccion">
+      <string>24-24</string>
+     </void>
+     <void property="listaVendedores">
+      <void method="add">
+       <object idref="Vendedor0"/>
+      </void>
+     </void>
+     <void property="nombre">
+      <string>laura</string>
+     </void>
+     <void property="usurio">
+      <string>laura</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
